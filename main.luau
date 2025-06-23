@@ -12,7 +12,7 @@ local Scripts = {
 local fetcher, urls = {}, {}
 
 urls.Owner = "https://raw.githubusercontent.com/voidfy-sudo/";
-urls.Repository = `{ urls.Owner }Scripts/refs/heads/main/`;
+urls.Repository = `{ urls.Owner }VoidHub/refs/heads/main/`;
 urls.Translator = `{ urls.Repository }Translator/`;
 urls.Utils = `{ urls.Repository }Utils/`;
 
